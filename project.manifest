@@ -249,7 +249,7 @@
             "md5": "3e3e734befb087b237ee29a7af562c19"
         },
         "src/Game/Lobby/Gui/SubpotLayer_en.jsc": {
-            "md5": "6aa434a98bde0db9a088b8351cab2841"
+            "md5": "9c19302a5fb39fbc3118060df196830b"
         },
         "script/jsb_property_apis.jsc": {
             "md5": "60eb3f493c524b0fb5e1e9696ded9306"
@@ -2541,7 +2541,7 @@
             "md5": "b51d204f5b0860a3ddb58cac99dea7cd"
         },
         "src/Game/Lobby/lobby_en.jsc": {
-            "md5": "2a21cb9ac7d622423d8a4f2f5d88fd14"
+            "md5": "aef794d888884d3f245d8cbd4c4077ab"
         },
         "src/Game/BaCay/GameGui/PlayerDisplay_en.jsc": {
             "md5": "e6f9933cd2379ee19dd253df71194238"
@@ -3067,7 +3067,7 @@
         }
     },
     "remoteVersionUrl": "http://androidmanvip.club/mobile2/version.manifest",
-    "version": "1.0.26",
+    "version": "1.0.28",
     "engineVersion": "3.16",
     "remoteManifestUrl": "http://androidmanvip.club/mobile2/project.manifest"
 }
