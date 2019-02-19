@@ -37,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project.manifest" pinned="false" current-in-tab="false">
+      <file leaf-file-name="project.manifest" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project.manifest">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="75057" max-vertical-offset="76032">
-              <caret line="3162" column="1" selection-start-line="3162" selection-start-column="1" selection-end-line="3162" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.027303753" vertical-offset="144" max-vertical-offset="73872">
+              <caret line="7" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="3072" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -87,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="version.manifest" pinned="false" current-in-tab="true">
+      <file leaf-file-name="version.manifest" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/version.manifest">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21843003" vertical-offset="0" max-vertical-offset="879">
-              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="7" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -107,8 +107,8 @@
       <list>
         <option value="$PROJECT_DIR$/plus/version.manifest" />
         <option value="$PROJECT_DIR$/plus/project.manifest" />
-        <option value="$PROJECT_DIR$/project.manifest" />
         <option value="$PROJECT_DIR$/version.manifest" />
+        <option value="$PROJECT_DIR$/project.manifest" />
       </list>
     </option>
   </component>
@@ -344,18 +344,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project.manifest">
+    <entry file="file://$PROJECT_DIR$/version.manifest">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75057" max-vertical-offset="76032">
-          <caret line="3162" column="1" selection-start-line="3162" selection-start-column="1" selection-end-line="3162" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="7" selection-end-column="77" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/version.manifest">
+    <entry file="file://$PROJECT_DIR$/project.manifest">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21843003" vertical-offset="0" max-vertical-offset="879">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.027303753" vertical-offset="144" max-vertical-offset="73872">
+          <caret line="7" column="52" selection-start-line="0" selection-start-column="0" selection-end-line="3072" selection-end-column="1" />
           <folding />
         </state>
       </provider>
