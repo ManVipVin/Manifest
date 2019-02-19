@@ -8,6 +8,9 @@
         "res/CardGame/ResXocDia/animation/Dealer1_animation/dealer1Plist.png": {
             "md5": "1f183fbd6b71650f72c9d6c30d734b6b"
         },
+        "src/Game/Slots/NuChienThan/Network/NCTListener_en.jsc": {
+            "md5": "6337af7e5d43fb5fe194f6ed139c135e"
+        },
         "src/Game/Minigame/TaiXiu/TXLichSuGiaoDich_en.jsc": {
             "md5": "0d8e03d357c02add56c69a068ea51538"
         },
@@ -28,6 +31,9 @@
         },
         "src/Game/CoCaro/GameGui/PlayerDisplay_en.jsc": {
             "md5": "e630c93a3ffe72f212b5ec662c5c5d89"
+        },
+        "res/LoadingUI/icon.png": {
+            "md5": "221b845e2a80d4bfc71ebe653e28fd47"
         },
         "res/CardGame/LaBai/labai_25.png": {
             "md5": "039fba6adfbd88bebe85fa2bda385d30"
@@ -69,7 +75,7 @@
             "md5": "f029280934d80b9ecc9d4af2ca50c227"
         },
         "src/Game/Poker/GameGui/PokerScene_en.jsc": {
-            "md5": "fa970863eb47c26096bd86b6eec0a573"
+            "md5": "8cf6edaf3a3341032f44394850cb9594"
         },
         "src/Game/Minigame/TaiXiu/TXChiTietPhien_en.jsc": {
             "md5": "ac87dfcc2512e3fb84f9d723ce0cde2f"
@@ -81,7 +87,7 @@
             "md5": "3b7f12138a5ac692174ba9465d4b485a"
         },
         "src/Game/Slots/NuDiepVien/NuDiepVienResponse_en.jsc": {
-            "md5": "8de31abda21a29295114682cd6fc920d"
+            "md5": "2308603ce9069efaffc8cafd730024d4"
         },
         "res/ResourceMenuTab/Vip/Vip_point.jpg": {
             "md5": "18feee4dbd06674b89ab9dc035070f95"
@@ -90,7 +96,7 @@
             "md5": "a3f37adf45e4cab989c28ec14b712684"
         },
         "src/Game/Slots/VuongQuocVin/VuongQuocVinTheLeX2_en.jsc": {
-            "md5": "61d9cff0929c7c92326948d7643ed02d"
+            "md5": "88c5bfac9913b3760e77d1aaf5750510"
         },
         "res/ResourceMenuTab/ChuyenKhoan/PlistChuyenKhoan.png": {
             "md5": "b7a58480e2517bd797fb4fabd1f24f62"
@@ -116,11 +122,11 @@
         "script/jsb_common.jsc": {
             "md5": "fe34e9472c9a73e93f690db901663835"
         },
-        "src/Game/Lobby/Gui/QuenMatKhau/OtpQuenMatKhau_en.jsc": {
-            "md5": "e66cb683f10c28d07bdd886b6c8962f8"
+        "res/GUI/Lobby/Popup/Fonts/UTM Swiss Condensed.ttf": {
+            "md5": "acdee77b7b507e642cef27a99dad68f7"
         },
         "src/Game/PokerTour/GameGui/PlayerDisplay_en.jsc": {
-            "md5": "4f90602c00462e8402ec5e46dbf242d5"
+            "md5": "29be287dc05ee797f36e023b79a173be"
         },
         "res/CardGame/LaBai/labai_31.png": {
             "md5": "29dde310f0e8b2a7456055c2543abd75"
@@ -167,9 +173,6 @@
         "res/Lobby/IconGame/baicao.png": {
             "md5": "f5ff5025df16d51158318c9dc665f185"
         },
-        "src/Game/MenuInfo/Sercurity/ConfigSercurity_en.jsc": {
-            "md5": "89543c8ea8d52347fc53946260ce9b6b"
-        },
         "res/Popup/title.png": {
             "md5": "d0b829d875c97279e4496b4793b2eabe"
         },
@@ -197,6 +200,9 @@
         "res/CardGame/LaBai/labai_51.png": {
             "md5": "0011587610c0b7f1dd0c758758fe6839"
         },
+        "src/Game/TienLen/LogicGame/Card_en.jsc": {
+            "md5": "8c96140f46a19908bb9b203aa7bcbd5b"
+        },
         "src/Game/MauBinh/Logic/MauBinhUtility/MauBinhMathUtil_en.jsc": {
             "md5": "dd9347f38dd8de3aba2b98a757c12aff"
         },
@@ -207,13 +213,13 @@
             "md5": "6708bc2cb788775bc750120f1d10f22a"
         },
         "res/AvengerMiniGame.json": {
-            "md5": "800827ded1ab8fd6c142429c3ac28d69"
+            "md5": "06aed07b0b09b001e7d58378912e9ce5"
         },
         "src/Engine/GUI/BaseLayer_en.jsc": {
-            "md5": "01d0652c76126409a76477586679f9bd"
+            "md5": "a0d559251cfdd64bf6a69c1c8a678408"
         },
         "src/Game/Poker/GameGui/PlayerDisplay_en.jsc": {
-            "md5": "0893e1bc8a4fabaac25e927c64c294c6"
+            "md5": "0b2d7b85db9a30bd55af5c9ad47c26e2"
         },
         "src/Game/Poker/Logic/Card_en.jsc": {
             "md5": "5629c75ae4e2e62a5f4cd17150a76a88"
@@ -242,6 +248,9 @@
         "src/Game/MenuInfo/Event/BangXepHangLayer_en.jsc": {
             "md5": "2daa3265f165b4b42d1aced100599366"
         },
+        "res/Lobby/Popup/Fonts/UTM Swiss Condensed.ttf": {
+            "md5": "acdee77b7b507e642cef27a99dad68f7"
+        },
         "src/Game/MenuInfo/LichSuGiaoDich/LichSuGDLayer_en.jsc": {
             "md5": "efd4db9d96137181828bcc297c00f508"
         },
@@ -249,13 +258,16 @@
             "md5": "3e3e734befb087b237ee29a7af562c19"
         },
         "src/Game/Lobby/Gui/SubpotLayer_en.jsc": {
-            "md5": "9c19302a5fb39fbc3118060df196830b"
+            "md5": "0b9d7ec144bfc4c272e1ce7698fc51d2"
         },
         "script/jsb_property_apis.jsc": {
             "md5": "60eb3f493c524b0fb5e1e9696ded9306"
         },
+        "src/Game/Sam/GuiGame/CardSprite_en.jsc": {
+            "md5": "69083ab4cc9cdcf9c215572acf46c8d7"
+        },
         "res/NuDiepVien.json": {
-            "md5": "4a6ece74ceba9e067bd614a3b06d9485"
+            "md5": "6651b5d88e139f4f6f4a5e12e1681d46"
         },
         "res/Lobby/Default/Button_Disable.png": {
             "md5": "fa79821349dd686f516187283bc2fb8c"
@@ -268,9 +280,6 @@
         },
         "res/MenuSlots/Plist_slots.png": {
             "md5": "a9eee03d41f4870589b3639c21e7d622"
-        },
-        "src/Game/Slots/SlotsKhoBau/SlotKhoBauHuongDan_en.jsc": {
-            "md5": "0268271caa0f22b30667c503e1a6febb"
         },
         "src/Game/Lieng/Network/InPacket_en.jsc": {
             "md5": "7ad4dce7cbe2ed93890675366f029aba"
@@ -302,8 +311,8 @@
         "res/Lobby/logo.png": {
             "md5": "921eda5ed502cc86710606b4ba26d12a"
         },
-        "src/Engine/Purchase/InappPurchase_en.jsc": {
-            "md5": "00d5243b051e8ddf470177972fb7952c"
+        "res/LoadingUI/GEM.png": {
+            "md5": "1dfe2e53f4800b6adc12b81e0f924522"
         },
         "res/Lobby/IconGame/lieng.png": {
             "md5": "751c38f17f7162250402c180e98fc26c"
@@ -360,7 +369,7 @@
             "md5": "3429f89681be6f92bffef1797d6c2bcc"
         },
         "src/Game/MenuInfo/Shopping/ChuyenKhoanLayer_en.jsc": {
-            "md5": "20ed9bdc07d1e0aefc934af269fbce43"
+            "md5": "5992ef5b6b6fbacf6aede175e8da5cb7"
         },
         "src/Game/Minigame/MiniGameBaseLayer_en.jsc": {
             "md5": "72a1a871bc3004c5005786e6f656ce2b"
@@ -375,7 +384,7 @@
             "md5": "8b8ddbe2391511ba6e05d975dd2d9dba"
         },
         "src/Game/Networks/urlDefines_en.jsc": {
-            "md5": "d9e64f9d78b648d4f7744c0a25265eac"
+            "md5": "7de668613a2e846146dfb41274b0ad68"
         },
         "src/Game/GuiCommon/TopCellItem_en.jsc": {
             "md5": "08974826d7193eedc9e877c8db55c90e"
@@ -407,6 +416,9 @@
         "res/CardGame/ResXocDia/xocdia-25.png": {
             "md5": "bc0538eb73f66933dbb2405376f038db"
         },
+        "src/Game/Slots/NuChienThan/GUI/TheLeX2Layer_en.jsc": {
+            "md5": "000c924c075fe2d65f0cac2b8c576f82"
+        },
         "src/Game/MenuInfo/Sercurity/KetAnToanLayer_en.jsc": {
             "md5": "4f30afb05de5ed20cf01669beb0ce00f"
         },
@@ -416,8 +428,8 @@
         "res/ResourceMenuTab/Mail/PlistMail.plist": {
             "md5": "5712ce4ec4cba4b448c172872df49b03"
         },
-        "res/Minigame/ImageChung/bg_soicau1.png": {
-            "md5": "69bf6327957d25d2a05d41d04f0c77f3"
+        "res/Lobby/bg_content.png": {
+            "md5": "c59b48c462a28eeea342ba051ce75f58"
         },
         "script/studio/parsers/timelineParser-2.x.jsc": {
             "md5": "5e8bdc4f513604a87d94a8fff4bab68d"
@@ -435,7 +447,7 @@
             "md5": "a2ca0a000d624b35eaa68bec055fdfa3"
         },
         "src/Game/Slots/VuongQuocVin/VuongQuocVinListener_en.jsc": {
-            "md5": "8ab2fc0005deb3472de9874222bb847e"
+            "md5": "60b289588b05c9d7741f29f741ddda63"
         },
         "res/Sound/tictoc.mp3": {
             "md5": "fec83d9379fcec31066128f89c7db4d9"
@@ -446,11 +458,14 @@
         "script/ccui/jsb_ccui_property_apis.jsc": {
             "md5": "81e1ac59bf53a41b4bca66db9b17a082"
         },
+        "src/Game/Slots/Components/TableLayer/BaseLayerTable_en.jsc": {
+            "md5": "d15d7f36cfcf30cd4496506b77e21144"
+        },
         "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/.Start_VQV_PList.Dir/ResourceMenuTab_Profile_VongquayVip_Glow_Efect_Quay_Quay_Glow_09.png": {
             "md5": "7e7ebee5fb8d70e1dbcd890d2f1a86d9"
         },
         "src/Game/MenuInfo/MenuTab/Content/UserManagerDefine_en.jsc": {
-            "md5": "d2348ef8377ee71c90a111abcac4b9f1"
+            "md5": "1dc4be740fa3a14a8cea24984736960d"
         },
         "res/CardGame/ResXocDia/xocdia02.png": {
             "md5": "fa9a35d7e1f35220283e2343cb001889"
@@ -459,7 +474,7 @@
             "md5": "31dd19a6a6dd52acf79e6e4a2d33f1c4"
         },
         "src/Game/Slots/DeCheThanhRome/Particle/DCTRParticle_en.jsc": {
-            "md5": "faf2f35375920283639f311462b885eb"
+            "md5": "6243d8f9c1599363370e6af90f21bc54"
         },
         "script/navmesh/jsb_navmesh.jsc": {
             "md5": "cada043b9c825f59441a964097f008dd"
@@ -479,6 +494,9 @@
         "src/Game/BaiCao/Network/OutPacket_en.jsc": {
             "md5": "800762d4ac178601715f03c8caa8a6c1"
         },
+        "src/Game/Slots/NuChienThan/GUI/TableLSGDLayer_en.jsc": {
+            "md5": "4a93e9abdb8cc544498dea6b90319a51"
+        },
         "res/CardGame/ResXocDia/dealer_3.png": {
             "md5": "100035a461d6e4e52f707f150afeb42b"
         },
@@ -497,14 +515,11 @@
         "src/Game/MauBinh/Logic/MauBinhPlayerMgr_en.jsc": {
             "md5": "b0e6e0d93112f0ef1716bb6760f4ea6f"
         },
-        "src/Game/Slots/SlotsKhoBau/SlotKhoBauTopUser_en.jsc": {
-            "md5": "0881124656b778b48a774613dd5a44d2"
-        },
         "src/Game/Minigame/CaoThap/codeCaoThap_en.jsc": {
             "md5": "e7574505b2ec0447cc51fadd6d6f8a04"
         },
         "res/SlotsKhoBau.json": {
-            "md5": "ac78729c5fea7e3ac177c891b6d34f85"
+            "md5": "2fd77938538f7c4a73aa1dd99cf67a8d"
         },
         "res/GameCo/CoUp/latquando.plist": {
             "md5": "7226029b90a1acc5cbc7247bc5094e4e"
@@ -513,7 +528,7 @@
             "md5": "11c5a462ec808e7bbecbcc514bd64383"
         },
         "src/Game/Slots/SlotsKhoBau/SlotKhoBauListener_en.jsc": {
-            "md5": "72c45892e221744151b92f820fba1be9"
+            "md5": "3d295e01e5b6e04795ca6a6bf9c294a1"
         },
         "src/Game/Lobby/Gui/PokerTourButton_en.jsc": {
             "md5": "a9da54f20376516e9360ffbbecfae9a3"
@@ -546,7 +561,7 @@
             "md5": "8e39d5a8f7619effce12e3af992eefcd"
         },
         "src/Game/Lobby/Gui/ItemGameBai_en.jsc": {
-            "md5": "c33d1c4dd24210d6a284a00f8089c65b"
+            "md5": "cddb15afb9acf68f74ece4040eed8d5d"
         },
         "res/ResourceMenuTab/muchu-s.png": {
             "md5": "8ac984c474f19cd5214a5e05e96576db"
@@ -585,7 +600,7 @@
             "md5": "ecaeb5688556f8351ab59733eec17254"
         },
         "src/Game/Networks/TaixiuSocket/TaixiuSocket_en.jsc": {
-            "md5": "020fe12ba23f38030854174beef54bac"
+            "md5": "9c109e1ecfa9a445a2474b5c9458c79d"
         },
         "src/Game/MenuInfo/code_event_vip_guild_en.jsc": {
             "md5": "23f469c817ce9844d3fae55bd20847b8"
@@ -595,6 +610,9 @@
         },
         "res/ResourceMenuTab/Vip/table_event.png": {
             "md5": "77d84e36f24de64c833286020471a6df"
+        },
+        "src/Game/Slots/NuChienThan/GUI/HuongDanLayer_en.jsc": {
+            "md5": "90f6ba11cb1af0d59e2dcb8c817d2160"
         },
         "res/MenuSlots/dang_quay_02.png": {
             "md5": "589437783947c3471755a43991cb12c6"
@@ -624,7 +642,7 @@
             "md5": "74817ba97bb6356da364ebd31820ef97"
         },
         "src/Game/Slots/Avenger/AvengerResponse_en.jsc": {
-            "md5": "72978ea51fc2a18613c97a6bb74642fd"
+            "md5": "a8ff895bcd4a64f4bafabd106d31ddd0"
         },
         "src/Game/Sam/Constant_en.jsc": {
             "md5": "d653749b525293da9ae3b8e496ff6adf"
@@ -635,11 +653,14 @@
         "src/Game/GuiCommon/TopGameLayer_en.jsc": {
             "md5": "9506f2df46153e1292d2b10c42ed32ac"
         },
-        "src/Game/CoUp/GameGui/NodeStart_en.jsc": {
-            "md5": "1f9955fd78b474bebcfb5e50e4316cc9"
+        "res/NuChienThan/version.manifest": {
+            "md5": "033dd076c04c8d19bfcb3853ee755467"
         },
         "src/Game/CoTuong/Logic/Pieces/Guard_en.jsc": {
             "md5": "8547204d2aa82944074ceb63233cc656"
+        },
+        "src/Game/CoUp/GameGui/NodeStart_en.jsc": {
+            "md5": "1f9955fd78b474bebcfb5e50e4316cc9"
         },
         "res/CardGame/Poker/PlistPoker.png": {
             "md5": "f67ef9f6086cd1c923d6cf8d942b507e"
@@ -651,13 +672,13 @@
             "md5": "605fb740ff3995377ac5c877a6a665ed"
         },
         "res/KBTheLeX2.json": {
-            "md5": "2bbf024dd89660a0a69162ed7d906cd8"
+            "md5": "e6a496d56a2b8a6c5684937fc95466c0"
         },
         "res/Font/font_time-export.png": {
             "md5": "7cff6736897aa99d1cd1ba1ebc6d23e2"
         },
         "src/Game/XocDia/codeXocDia_en.jsc": {
-            "md5": "ed1a796f1a65111e88371f8414d91808"
+            "md5": "b8f1f40ec83c23ab66bf9171144d47ae"
         },
         "res/Avenger/version.manifest": {
             "md5": "440863986f72efa0758d612765b07ed6"
@@ -678,7 +699,7 @@
             "md5": "7a4b98c65feabdf486ff2b056b18431c"
         },
         "src/Game/Slots/UI/ItemMenuSlots_en.jsc": {
-            "md5": "1e615e0853fe68ece286f04c1df8e5c4"
+            "md5": "3a6812fa854d64e399f000f046ff1646"
         },
         "res/VuongQuocVin/project.manifest": {
             "md5": "13281191f16f59c2d5534b519fb571fb"
@@ -714,22 +735,19 @@
             "md5": "bf955348a270b363a3031dc112a87d96"
         },
         "src/Game/Slots/Network/SlotsSocketListener_en.jsc": {
-            "md5": "60dea54a41d6c8e68982b36432e78f7d"
+            "md5": "7642d452a45365840421280a20218c37"
         },
         "src/Game/Slots/VuongQuocVin/VuongQuocVinChoiThu_en.jsc": {
             "md5": "c4f7fc1974357c0d05cc7b048ab1b14c"
-        },
-        "res/KBBangThuong.json": {
-            "md5": "68af5bc0b03042e6b620156d16511703"
         },
         "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeTheLeX2_en.jsc": {
             "md5": "ffb74ee7f52d8314febfe343a1080b91"
         },
         "res/NDVLichSuGiaoDich.json": {
-            "md5": "e7235c9b45d71e4f5ce502a9c6fffede"
+            "md5": "29de0682dfcccc7404aa91740cab0e72"
         },
         "src/Game/Slots/NuDiepVien/NuDiepVienTheLeX2_en.jsc": {
-            "md5": "10449bcc6c2c52ee4c8a564f7078b0da"
+            "md5": "54f10c083b8036721d58edfdd9f5c514"
         },
         "script/ccui/jsb_cocos2d_ui.jsc": {
             "md5": "c8c260024020771bc3839c6756624d98"
@@ -755,6 +773,9 @@
         "res/ResourceMenuTab/Mail/bgtab_mail.png": {
             "md5": "75f1d0e823a2b67b8ac4ec7e0d738291"
         },
+        "src/Game/BaiCao/GameGui/NanBaiLayer_en.jsc": {
+            "md5": "7f7cb4c4546ada60d296287769586445"
+        },
         "src/Game/GuiCommon/MoiChoiLayer_en.jsc": {
             "md5": "698a552df46fa70787516bf59e944d04"
         },
@@ -771,7 +792,7 @@
             "md5": "e2e2f9e5e03628baf459af72ce6a13cb"
         },
         "src/Game/Minigame/TaiXiu/TaiXiu_en.jsc": {
-            "md5": "2579e30fc73c0f5d8a867c038ae03453"
+            "md5": "aa8c5cae8ea15070366760d53b65de43"
         },
         "src/Game/Slots/DeCheThanhRome/DeCheThanhRomeContent_en.jsc": {
             "md5": "12650c9e18bd36910226b12dccb4c9b0"
@@ -780,10 +801,13 @@
             "md5": "2970e9b18611f58f6a2543564d899f65"
         },
         "res/Avenger.json": {
-            "md5": "193c8fcea01a7e13900d71271f57bf59"
+            "md5": "fbfb222fb63aee450f2e90aa3f575f1d"
+        },
+        "src/Game/Slots/Components/TableLayer/LayoutTabView_en.jsc": {
+            "md5": "cce43d9276edca402b4880c2d3a2a2ee"
         },
         "src/Game/Slots/NuDiepVien/NuDiepVienHuongDan_en.jsc": {
-            "md5": "ce52190e2f0d6904aa1d3d1d51f13a66"
+            "md5": "38be7ac5a71a655287a046a58fe6e56f"
         },
         "res/Minigame/ImageChung/number_back.png": {
             "md5": "3993aa5e4901ef913661af80d6c2c128"
@@ -805,6 +829,9 @@
         },
         "src/Game/BaCay/BaCayLogic/BoBaCay_en.jsc": {
             "md5": "72976025609133f80ba003f1ca554496"
+        },
+        "src/Game/Lobby/Gui/QuenMatKhau/OtpQuenMatKhau_en.jsc": {
+            "md5": "e66cb683f10c28d07bdd886b6c8962f8"
         },
         "src/Game/Minigame/TaiXiu/TXcolor_en.jsc": {
             "md5": "05021de4f491ad6e3404139d57e67c3f"
@@ -849,10 +876,10 @@
             "md5": "6c3b6973d7f131ea80b5f77be96e31a4"
         },
         "res/NDVTopNoHu.json": {
-            "md5": "3dbee309d9796262136f317040fb1803"
+            "md5": "1f437ea0a313bb0db6a2ad30fcb3e484"
         },
         "src/Game/Slots/Network/NetWorkUtils_en.jsc": {
-            "md5": "f4c4579d251e84b794660f2105943bf5"
+            "md5": "1a596ff77e56175e4fbab74214fabdae"
         },
         "src/Game/TienLen/LogicGame/GameHelper_en.jsc": {
             "md5": "08edb32cec0acba4286e489a80bf8fea"
@@ -864,7 +891,7 @@
             "md5": "5a54baf13c3a1e02cee71cf63aff902e"
         },
         "src/Game/Lobby/Gui/ChatPanelLayer_en.jsc": {
-            "md5": "7d1a805cae994a42e8c0062504230d07"
+            "md5": "34bb079c9858a7c8ea6eb69371c6f0b4"
         },
         "res/CardGame/CommonResource/ChonBan/ChonBanPlist.plist": {
             "md5": "e4ab2dbefb613700a7b4c75e00ff7ee6"
@@ -873,7 +900,7 @@
             "md5": "3d620c0bbcd912865e3887b0353bd492"
         },
         "src/Game/ThanBien/ThanBienVinPlay_en.jsc": {
-            "md5": "85cfee959fc57e72b6b13b26d02066dc"
+            "md5": "2751b3fe4c29e48a723ae6e0aa748771"
         },
         "res/ResourceMenuTab/lichsugiaodich/bg_table.png": {
             "md5": "c3b9bbc0503f1d59040cd6e10e55fc91"
@@ -918,10 +945,10 @@
             "md5": "cf77c90f2ddad00cc16f5b8dc33895c0"
         },
         "src/Game/common/common_en.jsc": {
-            "md5": "a36afe88834b914f7a9c1c36e8085ff0"
+            "md5": "0a01b179ccce5ae0e271c61279df7774"
         },
         "res/AvengerLichSuGiaoDich.json": {
-            "md5": "55cfdc8fdb4bd57a181a37ae258052b1"
+            "md5": "ed061d46cf8f70187597e9af4e467133"
         },
         "res/CardGame/LaBai/labai_7.png": {
             "md5": "6153f8bdd46fb73fd169401e9269dc06"
@@ -942,7 +969,7 @@
             "md5": "169a18caf29078b016d60796993684af"
         },
         "src/Game/Slots/Avenger/AvengerMinigame_en.jsc": {
-            "md5": "aad14c706aa4c9f169015060334dd951"
+            "md5": "07978431f2987a675eb0845728d151d8"
         },
         "res/ResourceMenuTab/Profile/bg_hoso_table.png": {
             "md5": "4c2cb99cac944f671ce652efc90449d8"
@@ -987,7 +1014,7 @@
             "md5": "1004ca9da8bed7dfe646e8e967021d48"
         },
         "src/Game/MenuInfo/MenuTab/BigWinLayer_en.jsc": {
-            "md5": "0542ba0fea4664459da2a419e402186b"
+            "md5": "e51590c88a5cd2ac87ab49cde577803f"
         },
         "src/Game/CoUp/Network/InPacket_en.jsc": {
             "md5": "31eb7e7ec4730b7183534fc92684370c"
@@ -1052,9 +1079,6 @@
         "script/jsb_prepare.jsc": {
             "md5": "3abd45366540c676a8ac003beaf13fdf"
         },
-        "res/LoadingUI/logo.png": {
-            "md5": "921eda5ed502cc86710606b4ba26d12a"
-        },
         "src/Game/XiZach/Logic/Player_en.jsc": {
             "md5": "d68f7aa5face337079178de6b8ec4706"
         },
@@ -1065,7 +1089,7 @@
             "md5": "a12e6fb661fe374139148397ab683c31"
         },
         "project.json": {
-            "md5": "dece21b51eac1cd1c992034e50e56eb6"
+            "md5": "e0d43728310194263caca068d3f15aeb"
         },
         "res/Lobby/DangKy/bg_DangKy.png": {
             "md5": "c6695052e6dc72ddde6a8e28856c0990"
@@ -1083,7 +1107,7 @@
             "md5": "54e3601b82ab90f0e375be77478167b3"
         },
         "src/Game/Slots/VuongQuocVin/VuongQuocVinResponse_en.jsc": {
-            "md5": "c59ac7da914fe29e5630d7e67e9ac5b1"
+            "md5": "ccc8de95ce1d9e571d6127100765a424"
         },
         "src/Game/CoTuong/Logic/Logic_en.jsc": {
             "md5": "e81920a636c7aea702f8be34d35d4058"
@@ -1097,17 +1121,17 @@
         "src/Game/Minigame/MiniSlot/ResponsePokemon_en.jsc": {
             "md5": "f3e6229b3bf1db83855d46b5ab7a28c6"
         },
-        "res/GUI/Lobby/Popup/Fonts/UTM_Swiss_Condensed.ttf": {
-            "md5": "acdee77b7b507e642cef27a99dad68f7"
+        "src/Game/CoTuong/GameGui/KhieuChien_en.jsc": {
+            "md5": "03241e7c51f086c6d29b148373dca101"
         },
         "res/CardGame/PokerTour/PlistPokerTour.png": {
             "md5": "67d8b700e506e1365a28422d4a14b41f"
         },
         "res/NDVBangThuong.json": {
-            "md5": "e652631fab325b61e262e5753d01b8f6"
+            "md5": "a18ddc480cc77e76b7ca7b3260e3370f"
         },
-        "src/Game/BaiCao/GameGui/NanBaiLayer_en.jsc": {
-            "md5": "7f7cb4c4546ada60d296287769586445"
+        "res/GUI/Lobby/Popup/Fonts/UTM Swiss CondensedBold.ttf": {
+            "md5": "cb756e444c81c3490adfb9e6b540e2f5"
         },
         "res/CardGame/ResXocDia/subbanker.png": {
             "md5": "700f96cd0f4825094304c8614be02938"
@@ -1120,9 +1144,6 @@
         },
         "src/Game/Lobby/Gui/QuenMatKhau/ForgotPassword_en.jsc": {
             "md5": "344ba2665f19dcc4c2f70d29f037a444"
-        },
-        "src/Game/CoTuong/GameGui/KhieuChien_en.jsc": {
-            "md5": "03241e7c51f086c6d29b148373dca101"
         },
         "res/CardGame/CommonResource/EndGame/EndGamePlist.png": {
             "md5": "a04ea24a45d5ecceaf5f84f77f0457a2"
@@ -1140,16 +1161,13 @@
             "md5": "40add907972783442ab7c664dd8e1403"
         },
         "src/Game/Minigame/TaiXiu/soicau_en.jsc": {
-            "md5": "8ff0b5c7313c56d3b0245cbf941fd057"
-        },
-        "src/Game/Slots/VuongQuocVin/Particle/ParticleVinplay_en.jsc": {
-            "md5": "92643c50d88ef1c23d900ea0dea833ef"
+            "md5": "357ccd12c234855187b247d1a1302052"
         },
         "src/Game/CoUp/Network/CoUpWebSocket_en.jsc": {
             "md5": "b80e8ce5ac51ea941434185de9f4d5ab"
         },
-        "res/GUI/Lobby/Popup/Fonts/UTM_Swiss_CondensedBold.ttf": {
-            "md5": "cb756e444c81c3490adfb9e6b540e2f5"
+        "src/Game/TienLen/Network/CmdTienLen_en.jsc": {
+            "md5": "4d8e8b0e9c2f0882ba64ae58f621cdeb"
         },
         "res/Font/UTM-Swiss-Condensed.ttf": {
             "md5": "acdee77b7b507e642cef27a99dad68f7"
@@ -1179,7 +1197,7 @@
             "md5": "659d777dc099bafbc59b3adce6098c5a"
         },
         "src/Game/MenuInfo/responseMenu_en.jsc": {
-            "md5": "96938d70c9eadb5f3c403b4c91082101"
+            "md5": "3e656f27f5a87d466985d15b902dd13e"
         },
         "src/Game/Slots/SlotsKhoBau/SlotKhoBauAudio_en.jsc": {
             "md5": "f3bea87e6dbd623516e90ea77529985c"
@@ -1211,6 +1229,9 @@
         "res/CardGame/LaBai/labai_3.png": {
             "md5": "9f5f2009d6d2f33f4e80c897dd7f09e5"
         },
+        "src/Game/Slots/NuChienThan/GUI/TableTopNoHuLayer_en.jsc": {
+            "md5": "59123cea99e136a21b76881ad6214202"
+        },
         "src/Game/Poker/Logic/GameLogic_en.jsc": {
             "md5": "a7b2f9176647ba45984caeb6af1c7341"
         },
@@ -1226,8 +1247,8 @@
         "res/Minigame/ImageChung/choixu.png": {
             "md5": "9a59a71e5c096785589cac0e35d6868e"
         },
-        "res/cacert.pem": {
-            "md5": "29eb4701e245df55dc511e67bef79a68"
+        "src/Game/Poker/GameGui/CardSprite_en.jsc": {
+            "md5": "7154ccf7e9addca061c1d1fdc5c9beed"
         },
         "res/GameCo/CoTuong/CoTuongPlist.png": {
             "md5": "30a8ffa3239a1c97da948db040f5083d"
@@ -1242,7 +1263,7 @@
             "md5": "a67934e1a52c255917a314f255c48d7f"
         },
         "src/Game/Slots/NuDiepVien/NuDiepVienListener_en.jsc": {
-            "md5": "db8d9e897368d9a738c6acbcb4620058"
+            "md5": "535f3cf57fd92b565fc7e6e8234dc5ea"
         },
         "res/CardGame/CommonResource/MoiChoi/MoiChoiPlist.plist": {
             "md5": "5122a08cfcb7efea585e5991d32c7185"
@@ -1252,6 +1273,9 @@
         },
         "src/Game/Minigame/BauCua/BCTopUser_en.jsc": {
             "md5": "6c068249ee44d583a351818092598e79"
+        },
+        "src/Game/Slots/NuChienThan/GUI/ThangLonLayer_en.jsc": {
+            "md5": "87136139a5fdaace1c5e15ae2eef0629"
         },
         "res/CardGame/LaBai/labai_12.png": {
             "md5": "43e329b805c3eff76e64c2042d8159e8"
@@ -1265,8 +1289,11 @@
         "src/Game/Lieng/Network/OutPacket_en.jsc": {
             "md5": "dffea1ba37d51cf963a1cb3751ef56f8"
         },
-        "res/Minigame/ImageChung/arrow.png": {
-            "md5": "436dfc96367400f84ce7b740983c00f1"
+        "res/Font/XengFont01/XengFont01_export.png": {
+            "md5": "ecad0b1f173b1ed4c901ea38e0387f8c"
+        },
+        "src/Game/Slots/NuChienThan/GUI/ChonLineLayer_en.jsc": {
+            "md5": "dbe416005a41acb74416fc2c0f19ab72"
         },
         "res/ResourceMenuTab/Guild/info.png": {
             "md5": "cf1ffdb4a437dadfba7648aedfc5ff2e"
@@ -1281,16 +1308,19 @@
             "md5": "85c6818d225cc87192b9493da1405993"
         },
         "src/Game/Slots/DeCheThanhRome/DeCheThanhRome_en.jsc": {
-            "md5": "b2ddf47194d5125e8c7d9e93ca359a00"
+            "md5": "ea953438b6a4f47e6b75835c5748f014"
         },
         "res/ResourceMenuTab/Profile/bg_profile.png": {
             "md5": "19fd2391cd8b3e9b004bf6d196e63c3a"
+        },
+        "src/Game/Poker/GameGui/NewPokerCard_en.jsc": {
+            "md5": "d182b5d94354709836bf5fe42518810a"
         },
         "src/Game/Poker/PokerTour/PokerTourLobby_en.jsc": {
             "md5": "b29a0a8fec5f5a9dfac9b5d3dda6563f"
         },
         "res/AvengerBangThuong.json": {
-            "md5": "557e54ca3f1dc115522fc51df7b13e2f"
+            "md5": "9fb37bbae47e6732d46b46e0c54f7f8c"
         },
         "res/GameCo/CoTuong/table_inside.png": {
             "md5": "ddb73166a310e522834bb0811cdac3bc"
@@ -1305,7 +1335,7 @@
             "md5": "6f094b59f91b55e7766336bafb802177"
         },
         "src/Game/Slots/Avenger/Avenger_en.jsc": {
-            "md5": "925fffcb9a32c40ce61121f1541386d6"
+            "md5": "a9de074229c24f91de0268d4504a43bc"
         },
         "src/Game/BaiCao/GameGui/BaiCaoEndGame_en.jsc": {
             "md5": "b6134e9dcec19b4b22e77ffb249384dd"
@@ -1323,7 +1353,7 @@
             "md5": "efa3bff1873b057f848e35467a6226e6"
         },
         "src/Engine/GUI/BaseScene_en.jsc": {
-            "md5": "ee1ac05fb0d11eb99afa2471c1debd8b"
+            "md5": "aa73d7354714fdbe2b07809f881b11fa"
         },
         "src/Game/XocDia/Constants_en.jsc": {
             "md5": "29a733ce23b50448d9f328bad475b890"
@@ -1401,7 +1431,7 @@
             "md5": "de6340229514abce70783e5bfcba50bf"
         },
         "src/Game/Networks/MainWebsocket/primarySocket_en.jsc": {
-            "md5": "66f7fb3626cca32a451e1a44c4cffda2"
+            "md5": "2fb8895e070cc91848671504ddb3d80f"
         },
         "res/Font/XengFont02_silver/XengFont02_silver_export2x.png": {
             "md5": "615a546a7d3c5d7b1f2023fce29d7903"
@@ -1445,11 +1475,17 @@
         "res/CardGame/LaBai/labai_48.png": {
             "md5": "7eb8b55d667fc104f00912da78b71373"
         },
+        "src/Game/Slots/NuChienThan/GUI/ChoiThu_en.jsc": {
+            "md5": "a8441eadc688bbc25c563f9c379d3518"
+        },
         "src/Game/Slots/NuDiepVien/NuDiepVien_en.jsc": {
-            "md5": "c2a03560fa7df7a10c2f93df2044c5f0"
+            "md5": "8b0b4522c9b6f30fbfe8fb2b41dd44cc"
         },
         "res/CardGame/backjack/PlistBackJack.plist": {
             "md5": "0f907ca4616a4289fd91608d8b527606"
+        },
+        "res/NuChienThan/project.manifest": {
+            "md5": "033dd076c04c8d19bfcb3853ee755467"
         },
         "script/jsb_property_impls.jsc": {
             "md5": "40ae49543b442149ea16dfb3e706a8a6"
@@ -1468,6 +1504,9 @@
         },
         "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Start_VQV.plist": {
             "md5": "931368e54b290301a549f3eda281515e"
+        },
+        "res/LoadingUI/bgLoading.png": {
+            "md5": "43502fe8e59649e66059a4a01ab50234"
         },
         "res/MenuSlots/coming_soon.png": {
             "md5": "fb16995cd1f9b55371fe259dcfeaf137"
@@ -1523,9 +1562,6 @@
         "src/Game/Sam/Network/SamListener_en.jsc": {
             "md5": "e7c6a4a2fdd1d5584045c05f22da4dc6"
         },
-        "src/Game/Poker/GameGui/CardSprite_en.jsc": {
-            "md5": "7154ccf7e9addca061c1d1fdc5c9beed"
-        },
         "src/Game/MenuInfo/Shopping/NapVinLayer_en.jsc": {
             "md5": "89e3a8411bfa6f40d4ffc9e55b1e6a8d"
         },
@@ -1550,6 +1586,9 @@
         "res/Minigame/ResVQMM/project.manifest": {
             "md5": "33a3659758bf6295cad2cd538219d00d"
         },
+        "src/Game/Slots/NuChienThan/GUI/LobbyLayer_en.jsc": {
+            "md5": "08ada779d3b0d386283398a16b381cd7"
+        },
         "src/Game/GuiCommon/TopServerLayer_en.jsc": {
             "md5": "a1e04ffc0d3b5d3cc5b569773830d7d5"
         },
@@ -1557,7 +1596,7 @@
             "md5": "3bc48a68819b75500299483873fd768b"
         },
         "src/Game/Lobby/Gui/MenuLayer_en.jsc": {
-            "md5": "338be12339230738fe2d828ecfe4be90"
+            "md5": "7d9a6815d5869af5ee4993c3896d2452"
         },
         "src/Game/MauBinh/GUI/NumberSprite_en.jsc": {
             "md5": "76f612d691a974cd0effe0d16cda5924"
@@ -1571,11 +1610,14 @@
         "res/common/chat/chat_bg.png": {
             "md5": "a0bdaa10d29ea5e56c9c14d324045e9d"
         },
+        "src/Game/Slots/NuChienThan/GUI/NoHuLayer_en.jsc": {
+            "md5": "3c214b31b3fb776346fbc53fc6766729"
+        },
         "src/Game/Lieng/GameGui/BtnPlay_en.jsc": {
             "md5": "934ce8b8cef3dd48d6119da18f42fcff"
         },
         "res/AvengerTheLeX2.json": {
-            "md5": "7adc133a2a0759b07e03335a3a6a2efc"
+            "md5": "95ce4e145e112739173de5c04733bb5f"
         },
         "src/Game/MenuInfo/code_pn_otp_en.jsc": {
             "md5": "5cb5db51e1c8f3ac0bccb8497114bd60"
@@ -1623,7 +1665,7 @@
             "md5": "8bcb05af7b7d572702e22a153f01e7c7"
         },
         "src/Game/Networks/MainWebsocket/mainNetworkListener_en.jsc": {
-            "md5": "fe3972e9b41dcb62d98789bd865e1f50"
+            "md5": "951c42ed8780fe2dd800c6c61ae4d5bb"
         },
         "res/Font/XengFont03/XengFont3_export.png": {
             "md5": "fa06e99dc20725f21b100dbf8779b97c"
@@ -1694,6 +1736,9 @@
         "src/Game/CoUp/Logic/Pieces/General_en.jsc": {
             "md5": "1cb5dc08912b9da0c9485caacdb8815e"
         },
+        "src/Game/Slots/NuChienThan/GUI/MenuLayer_en.jsc": {
+            "md5": "cd5860dfc777a2881ff68e3adea8b919"
+        },
         "res/CardGame/CommonResource/MoiChoi/bg.png": {
             "md5": "aa7d724a13b9e533824142fde572da2c"
         },
@@ -1719,7 +1764,7 @@
             "md5": "437b44dc775f4bc8501224173662fdcf"
         },
         "src/Game/Slots/VuongQuocVin/VuongQuocVin_en.jsc": {
-            "md5": "40af89b775525eb1229ddbeb81f7842c"
+            "md5": "9abfc5a231abb4799cbe02081b41b858"
         },
         "res/CardGame/PokerTour/bg_banner_tour.png": {
             "md5": "67394b1b8a2c505a9ed080b75a03fcd5"
@@ -1738,9 +1783,6 @@
         },
         "res/Sound/cotuong_background.mp3": {
             "md5": "164a8dc630a8d099a3d957353da40c33"
-        },
-        "src/Game/Slots/SlotsKhoBau/SlotKhoBauBangThuong_en.jsc": {
-            "md5": "ae1e78fe731e6b0f0da20c2c1ae13973"
         },
         "src/Game/Poker/Network/PokerListener_en.jsc": {
             "md5": "42cb2380533b69d093c092fc2ef50d30"
@@ -1832,9 +1874,6 @@
         "src/Game/Poker/GameData/Constant_en.jsc": {
             "md5": "e0d0fdb153ec597caac4e4b834b125d2"
         },
-        "src/Game/TienLen/Network/CmdTienLen_en.jsc": {
-            "md5": "4d8e8b0e9c2f0882ba64ae58f621cdeb"
-        },
         "res/CardGame/CommonResource/BanChoi/sam_that_bai.png": {
             "md5": "7941d946d59a1a369c18e32a5347b533"
         },
@@ -1892,9 +1931,6 @@
         "res/CardGame/Poker/bgBanPoker.jpg": {
             "md5": "990dc5ef0c7ea1f8b03dae3f027c1dda"
         },
-        "res/LoadingUI/manvipclub.png": {
-            "md5": "a80ece62ccaa9321bee726cc85880aae"
-        },
         "res/Minigame/ResSlotBa/version.manifest": {
             "md5": "33a3659758bf6295cad2cd538219d00d"
         },
@@ -1920,10 +1956,13 @@
             "md5": "dd2aca3460f730a59e74648d404c1c32"
         },
         "src/resource_en.jsc": {
-            "md5": "04d5aa80087eb74a3618900489bfd1cb"
+            "md5": "4c5d36fec7198c1ae50502b147e00e74"
         },
         "res/Font/XengFont01/XengFont01_export2x.fnt": {
             "md5": "b088fecfe4fab763694d11d02d351efe"
+        },
+        "src/Game/Slots/NuChienThan/GUI/MiniGameLayer_en.jsc": {
+            "md5": "6e74a8b84da7f334177538348f89b640"
         },
         "src/Game/MenuInfo/Event/EventVipLayer_en.jsc": {
             "md5": "fb759aeb169d22ac876375d2adf9b581"
@@ -1938,7 +1977,7 @@
             "md5": "bc489b895a677daa6e3595f7a452fd1f"
         },
         "src/Game/Lieng/GameGui/PlayerDisplay_en.jsc": {
-            "md5": "c76ed353aa3bb612f637145f150d2492"
+            "md5": "170397c38069198369a6ec2672ef7f22"
         },
         "res/CardGame/PokerTour/PokerTour/cardDis3.png": {
             "md5": "97d3f52e6af57954c11552a2d18bc13a"
@@ -1953,7 +1992,7 @@
             "md5": "c80a283ddfbf9ad1bd14a67a9e044162"
         },
         "src/Game/Networks/BaseListener_en.jsc": {
-            "md5": "1e34ee19591ef0b9232014d7903d1e94"
+            "md5": "c54967b165bc88f607491fe34494f561"
         },
         "script/debugger/DevToolsUtils.jsc": {
             "md5": "a8197e2642cf4c1bf3a3ea62885a8e17"
@@ -1961,8 +2000,8 @@
         "src/Game/PokerTour/Logic/PokerTourData_en.jsc": {
             "md5": "f6d74e92765d44f717700629aa4e90af"
         },
-        "src/Game/TienLen/LogicGame/Card_en.jsc": {
-            "md5": "8c96140f46a19908bb9b203aa7bcbd5b"
+        "src/Game/Slots/NuChienThan/Constants_en.jsc": {
+            "md5": "0f70e119e1c5876d2fcc3e554d9bb840"
         },
         "src/Game/Networks/TaixiuSocket/OutPacket_en.jsc": {
             "md5": "3c85692f9bbbc494821253979b9cbd34"
@@ -1980,13 +2019,16 @@
             "md5": "22a2d4b014c9cebbe47437ff2292c8b5"
         },
         "src/Game/Slots/SlotsKhoBau/SlotKhoBauResponse_en.jsc": {
-            "md5": "9d61070a2333f71711cc803ee9b7ddea"
+            "md5": "9f9c8aebc24b8a968920b5db3342b26d"
         },
         "res/CardGame/LaBai/labai_52.png": {
             "md5": "1be1785f4b776977db7789f2ef4d8f9e"
         },
         "res/ResourceMenuTab/Profile/PlistProfile.plist": {
             "md5": "3f4616389ffe36e90f4d36c86dca945e"
+        },
+        "src/Game/Slots/NuChienThan/Network/CMDResponse_en.jsc": {
+            "md5": "e9e59aa37c029c13ff0819d797c97170"
         },
         "src/Game/MenuInfo/MenuTab/GameSetting/SettingLayer_en.jsc": {
             "md5": "242759c8fea6c4b302f9e8496574ce6b"
@@ -2006,8 +2048,8 @@
         "res/ResourceMenuTab/lichsugiaodich/btn1.png": {
             "md5": "cd3d50c5db7e04439d83b985dbb985c7"
         },
-        "res/KBLichSuGiaoDich.json": {
-            "md5": "3deb8b3da1ea5e522b948d1dce93351a"
+        "src/Game/MenuInfo/Sercurity/ConfigSercurity_en.jsc": {
+            "md5": "89543c8ea8d52347fc53946260ce9b6b"
         },
         "res/LoadingUI/dot.png": {
             "md5": "1d220bbb7b6e07ffd53dd177f6885166"
@@ -2015,8 +2057,8 @@
         "src/Game/CoTuong/Constants_en.jsc": {
             "md5": "777b09dc898d0fec3c142084d3429fc1"
         },
-        "res/Font/XengFont01/XengFont01_export.png": {
-            "md5": "ecad0b1f173b1ed4c901ea38e0387f8c"
+        "src/Game/Slots/NuChienThan/GUI/TopThangLayer_en.jsc": {
+            "md5": "6c73bb3dc83cfe41f06bfb7e7822fab6"
         },
         "res/Lobby/IconGame/banca.png": {
             "md5": "1d8c9fe19bb2e7ada9a8e9df75be8a60"
@@ -2031,7 +2073,7 @@
             "md5": "ccc27b4a974ada7523a1dedfe587fd3d"
         },
         "res/NDVTheLeX2.json": {
-            "md5": "784dd6a78704a7d2f01e85634e368212"
+            "md5": "9b08a01b4df4801eb04e477c5e706eae"
         },
         "res/CardGame/CommonResource/BanChoi/bg_banchoi_gamebai.jpg": {
             "md5": "be09db08315890e0b468a188f97f56bb"
@@ -2052,7 +2094,7 @@
             "md5": "ca73a600c3565204263a195de88b5b69"
         },
         "src/Game/BanCa/BanCaVinPlay_en.jsc": {
-            "md5": "a3a48f1b5508bfffc938f8e9c52f2851"
+            "md5": "361f43375b904a0351aa469bd8b1ce79"
         },
         "src/Game/MauBinh/Logic/MauBinhUtility/DebugUtil_en.jsc": {
             "md5": "c7fa48f4d2aefb61a620b8c5a8d6a8c0"
@@ -2081,8 +2123,8 @@
         "src/Components/TableLayer/LayoutListView_en.jsc": {
             "md5": "bce0d7958bdf556573350dc0b36279ca"
         },
-        "src/Game/BaCay/GameGui/CardSprite_en.jsc": {
-            "md5": "5398328e72239240760d8643a2b5f56b"
+        "res/LoadingUI/gamecenter.png": {
+            "md5": "78a5490543cd9adb5fa8d0b4bea4f7d5"
         },
         "src/Game/CoTuong/GameGui/NodeStart_en.jsc": {
             "md5": "a80b7c2803a868395d9ad6e08d768d05"
@@ -2097,7 +2139,7 @@
             "md5": "41f6e2e95c82d92975d7dfe0127e2071"
         },
         "src/Game/Slots/Avenger/AvengerListener_en.jsc": {
-            "md5": "a15e1566b9604b8a0f8089f6e40660d2"
+            "md5": "61fef60d4d3a0207ccdda6578f7028a7"
         },
         "res/Minigame/ImageChung/number_backall.png": {
             "md5": "2f863d04b9bbfc0552e5873b95d879f5"
@@ -2117,6 +2159,9 @@
         "src/Game/BaCay/Network/OutPacket_en.jsc": {
             "md5": "5206969c2e23aa3fcab62cb884fb0715"
         },
+        "src/Game/Slots/NuChienThan/GUI/EndFreeLayer_en.jsc": {
+            "md5": "d8d9c4d8c3b9c327ff8db0f6b9eb92f8"
+        },
         "res/CardGame/MauBinh/maubinh_type_0.png": {
             "md5": "71ee5ca99686ff6df098edd16322842d"
         },
@@ -2134,9 +2179,6 @@
         },
         "src/Game/MauBinh/Logic/MauBinhGroupCard_en.jsc": {
             "md5": "1641ff2fd6fa9afb20aabed9caa623a6"
-        },
-        "res/KBHuongDan.json": {
-            "md5": "40c0a08049149477926002af7d157f27"
         },
         "res/CardGame/LaBai/labai_4.png": {
             "md5": "4c9b658e2653e1f324bc93c670af4c6e"
@@ -2202,7 +2244,7 @@
             "md5": "c09926b9a27292821c814be8856cc18e"
         },
         "src/Game/PokerTour/GameGui/PokerTourScene_en.jsc": {
-            "md5": "83080521cf82e7b8c7a3f9f8ce811992"
+            "md5": "c04b4cce5ac4c164674657ce734887da"
         },
         "res/CardGame/PokerTour/PokerTour/cardDis1.png": {
             "md5": "d8a63968adea2cb2a192a53525698fc3"
@@ -2249,6 +2291,9 @@
         "src/Game/PokerTour/Logic/Card_en.jsc": {
             "md5": "6fd630c57d1dcd6b6ec1f5651f2b1d92"
         },
+        "src/Game/Slots/UI/Toast_en.jsc": {
+            "md5": "1f5a195df6c8209541c6d536caf2b440"
+        },
         "src/Game/Lieng/GameGui/LiengScene_en.jsc": {
             "md5": "4fd8175d05329be6d3e7377f7cd69510"
         },
@@ -2293,6 +2338,12 @@
         },
         "res/ResourceMenuTab/Profile/VongquayVip/Glow/Quang_Sang.png": {
             "md5": "b166bd0b2ed279d28ca8a3e29af3324f"
+        },
+        "res/Minigame/ImageChung/arrow.png": {
+            "md5": "436dfc96367400f84ce7b740983c00f1"
+        },
+        "src/Game/Slots/NuChienThan/NuChienThanLayer_en.jsc": {
+            "md5": "3ce1230d24f171f33192103591f6b054"
         },
         "res/CardGame/TienLen/sanhRong.png": {
             "md5": "9de38d3fc041c4b4b3b28ac3ef43e81e"
@@ -2355,13 +2406,22 @@
             "md5": "f1d8989e271c1aa145089e10593ab871"
         },
         "src/Game/Minigame/MagicDoor_en.jsc": {
-            "md5": "5cd75f2294879e0c8c8c1c2f2a45817f"
+            "md5": "97aacbdcf83eb84e8517fdae0cae8b17"
+        },
+        "res/Lobby/IconGame/icon_nct.png": {
+            "md5": "97252641c7af2f8d5be543a7244b478c"
         },
         "res/CardGame/ResXocDia/xocdia-22.png": {
             "md5": "de4d0311501b84a4e05ed979dd173abc"
         },
+        "src/Game/Slots/NuChienThan/NuChienThanAudio_en.jsc": {
+            "md5": "a5e4869a201328228b6c9d6cbaa7a39d"
+        },
         "res/CardGame/CommonResource/ChonBan/panel_banchoi.png": {
             "md5": "e3672089a2106a7280d5c97e72c9ef8f"
+        },
+        "res/Lobby/Popup/Fonts/UTM Swiss CondensedBold.ttf": {
+            "md5": "cb756e444c81c3490adfb9e6b540e2f5"
         },
         "src/Game/Sam/LogicGame/SamLogicUtil_en.jsc": {
             "md5": "fd4225e7dd801c146c81bf97ae560154"
@@ -2371,6 +2431,9 @@
         },
         "src/Game/CoTuong/Logic/Pieces/General_en.jsc": {
             "md5": "78ee4c0cfe487d0da68cefc939afdcb6"
+        },
+        "src/Engine/Purchase/InappPurchase_en.jsc": {
+            "md5": "00d5243b051e8ddf470177972fb7952c"
         },
         "res/GameCo/CoTuong/killEffect/kill.plist": {
             "md5": "9b3e393fb014cbcbc5675504947099d8"
@@ -2386,6 +2449,9 @@
         },
         "src/Game/TienLen/Network/TienLenListener_en.jsc": {
             "md5": "8fb124c6ee034007963c29e31b7e8653"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotWebSocket_en.jsc": {
+            "md5": "6719020ba3617b8d3403e07d52dc9d16"
         },
         "res/CardGame/Poker/buyInBg.png": {
             "md5": "7e8b68ca5ed97049a63a4db7e1350733"
@@ -2436,7 +2502,7 @@
             "md5": "611463c88af486bb79519ebbc787de9e"
         },
         "src/Game/Slots/Network/SlotsResponse_en.jsc": {
-            "md5": "1a69c4a27fc58188941bdc07e41e3535"
+            "md5": "e97d4a94c738447551afc9ba8ba1e5a9"
         },
         "res/CardGame/LaBai/labai_38.png": {
             "md5": "aec257c7a9a427a1593bfb9568123951"
@@ -2451,10 +2517,13 @@
             "md5": "f1eee044c5b12e8b92e72a4bab6d9be3"
         },
         "res/AvengerTopNoHu.json": {
-            "md5": "8f84f7687c6a9372ed8176d17bdb0d6f"
+            "md5": "876959e6313e72e6966c70d4e1a3d609"
         },
         "src/Game/Sam/LogicGame/LogicGame_en.jsc": {
             "md5": "490944c7a7f2761e7d31aec32fcd1575"
+        },
+        "src/Game/Slots/NuChienThan/GUI/ItemLayer_en.jsc": {
+            "md5": "a06b6e170309cd5f79cd5349f693b9e9"
         },
         "res/ResourceMenuTab/Profile/VongquayVip/Glow/Efect_Quay/Quay_Glow_01.png": {
             "md5": "0015409b4410c5a6726c9a227f5b1628"
@@ -2463,7 +2532,7 @@
             "md5": "e3d0bc98fad003bc01cc8202bfd14746"
         },
         "src/Game/Slots/SlotsKhoBau/SlotKhoBau_en.jsc": {
-            "md5": "15dc7bd05b3d5923ac40cf9b9ccd7bf5"
+            "md5": "3f7fa3c25166e18f6b70ea0fea94211d"
         },
         "res/ResourceMenuTab/Guild/titile.png": {
             "md5": "a6f3e1fa7a2a7016b05a219060491301"
@@ -2513,11 +2582,17 @@
         "script/debugger/transport.jsc": {
             "md5": "89331c90f548452d512408b79fc80e3a"
         },
+        "res/Base/Lobby/GUI/lobby-bg1.jpg": {
+            "md5": "bad5428feb4ffe1875634dadd545c8ec"
+        },
         "src/Game/Lieng/GameGui/EffectLayer_en.jsc": {
             "md5": "b1bf23f1eaad910eefb665778abc58f7"
         },
         "src/Game/Slots/NuDiepVien/NuDiepVienLSGD_en.jsc": {
             "md5": "cfc03480f0d37aa020db9a21d15cc211"
+        },
+        "src/Game/Slots/Components/TableLayer/LayoutControlTableView_en.jsc": {
+            "md5": "7e5d5834595ca2fa99468f6823ceae77"
         },
         "res/Fonts/tahoma.ttf": {
             "md5": "37f3ea3bd935bcd0e390b7d36fce4422"
@@ -2541,10 +2616,13 @@
             "md5": "b51d204f5b0860a3ddb58cac99dea7cd"
         },
         "src/Game/Lobby/lobby_en.jsc": {
-            "md5": "aef794d888884d3f245d8cbd4c4077ab"
+            "md5": "e05f3bbc1f8d7fe30ee856b0d6daeda8"
         },
         "src/Game/BaCay/GameGui/PlayerDisplay_en.jsc": {
             "md5": "e6f9933cd2379ee19dd253df71194238"
+        },
+        "src/Game/Slots/SlotsKhoBau/SlotKhoBauTheLeX2_en.jsc": {
+            "md5": "5328f970d61d838a72923e60f993c1e8"
         },
         "res/CardGame/LaBai/labai_6.png": {
             "md5": "c0de9ab4454b327d8c99f82f57f0e563"
@@ -2552,8 +2630,8 @@
         "res/CardGame/LaBai/labai_26.png": {
             "md5": "8da7e160a068f7ed216146c126e876b8"
         },
-        "res/Lobby/bg_content.png": {
-            "md5": "c59b48c462a28eeea342ba051ce75f58"
+        "res/Minigame/ImageChung/bg_soicau1.png": {
+            "md5": "69bf6327957d25d2a05d41d04f0c77f3"
         },
         "res/CardGame/Lieng/LiengPlist.plist": {
             "md5": "b6392849f67f07a26140acc47b72dd09"
@@ -2565,7 +2643,7 @@
             "md5": "14842585cbfa567b1cb141041def00ca"
         },
         "src/Game/Popup/popup_en.jsc": {
-            "md5": "3abf3d00b901fc12eafd82937bcb680d"
+            "md5": "7fdc01e2fabb68ec24191b63f83a978c"
         },
         "src/Game/MenuInfo/Sercurity/QuanLyGameLayer_en.jsc": {
             "md5": "b5c41726f8c11debcc0e4260e85e1438"
@@ -2598,7 +2676,7 @@
             "md5": "8548bcb2168cd6e6e73694a0c5156c34"
         },
         "src/Game/Sam/GuiGame/PlayerHold_en.jsc": {
-            "md5": "7018f42d66491e758a9fe3759e55efa3"
+            "md5": "e25d76aea6f2ad2e7b1b76db551b6d0a"
         },
         "src/Engine/Utility/EventHandlerManager_en.jsc": {
             "md5": "c86b52d0859dbfa7da772d85f6843a0a"
@@ -2613,7 +2691,7 @@
             "md5": "a4886d2ff6b0cd5f8b0f825fdedb70dc"
         },
         "src/Game/MenuInfo/MenuTab/HuGame/HuGameLayer_en.jsc": {
-            "md5": "6afb387ba40599e73af24b0b854ff6b5"
+            "md5": "da79e8780a534f52255ecd596704a39f"
         },
         "src/Game/MenuInfo/Shopping/NapTienTraSauLayer_en.jsc": {
             "md5": "b445b152083be261bdf329557045b0a9"
@@ -2631,7 +2709,7 @@
             "md5": "4faeb53e4fa40c2ca806692d2e9730d9"
         },
         "src/Game/GameMng/GameScenePool_en.jsc": {
-            "md5": "b5230cc454eb9db2702356d4e845b7e5"
+            "md5": "dafb1f0d77228539de035d20a4f5b54d"
         },
         "res/Font/UTM-Aurora.ttf": {
             "md5": "399be411d5650470c62e34ae493fbf81"
@@ -2652,7 +2730,7 @@
             "md5": "007d21375280149c6006f145cf62c4e3"
         },
         "src/Engine/Network/WsClient_en.jsc": {
-            "md5": "2e15465024f0d52e632dfd4d6f13e780"
+            "md5": "bce06ff448f3403cf877ca343df8fb92"
         },
         "res/MenuSlots/Plist_bai.png": {
             "md5": "1d58638e80a04e86a4898413b1001c4d"
@@ -2700,7 +2778,7 @@
             "md5": "0ab3503909b7bdfad4ed57f1a405380f"
         },
         "src/Game/Poker/GameGui/BuyInLayer_en.jsc": {
-            "md5": "4e21b7d8d8f0ea5dc84ca4b14c639b07"
+            "md5": "c4a95d95f5cc14693f908c6942be8498"
         },
         "src/Game/MenuInfo/Profile/ChangeAvatarLayer_en.jsc": {
             "md5": "993ec201a67930618901b8a81b16ff29"
@@ -2709,7 +2787,7 @@
             "md5": "a07e638c37d5552a9c4c4ca73df1d25d"
         },
         "src/Game/Slots/VuongQuocVin/Particle/VQVParticle_en.jsc": {
-            "md5": "1bfd5313fe2f33cfc64cfa39a689a82b"
+            "md5": "0536f52f265686c9d19e3bd9031f3270"
         },
         "src/Game/CoCaro/Network/CoCaroListener_en.jsc": {
             "md5": "f0996ef5e660aeccc895d5ad13912ba4"
@@ -2721,7 +2799,7 @@
             "md5": "ea8b7fccddd286e03f081278eaaaf60f"
         },
         "src/WebResource_en.jsc": {
-            "md5": "3a4ce29cd1462b9148fcf4708e87dbec"
+            "md5": "e2d4766246ef9b8f285f408e7de60c60"
         },
         "res/ResourceMenuTab/Guild/minislot4.png": {
             "md5": "731b22d84bbf30d61d3780c8ae345bc2"
@@ -2759,6 +2837,9 @@
         "src/Game/Minigame/MiniPoker/codeMiniPoker_lichsu_en.jsc": {
             "md5": "c0bb581e7f582452aff2a126f071b1c0"
         },
+        "res/MenuSlots/icon/nu_chien_than.png": {
+            "md5": "cfc4c9c72ecc51a12fbf556536a5bea0"
+        },
         "src/Game/BaiCao/Network/BaiCaoListener_en.jsc": {
             "md5": "3bc914fb8c3042074c0d3ff3e64bb2fb"
         },
@@ -2777,8 +2858,8 @@
         "script/jsb_spine.jsc": {
             "md5": "741c13798d58ef836303d7f47ff059b8"
         },
-        "src/Game/Poker/GameGui/NewPokerCard_en.jsc": {
-            "md5": "d182b5d94354709836bf5fe42518810a"
+        "res/LoadingUI/GEM.atlas": {
+            "md5": "00c95e254575071e713589e080841040"
         },
         "res/GameCo/CoTuong/table.png": {
             "md5": "74ae33146826abdc3f88954c8f1a5594"
@@ -2794,6 +2875,9 @@
         },
         "src/Game/Networks/TaixiuSocket/InPacketTaiXiu_en.jsc": {
             "md5": "54a7de6f9493829997f3848bb912b907"
+        },
+        "src/Game/Slots/NuChienThan/GUI/LineLayer_en.jsc": {
+            "md5": "1aa166e1e20fcbb796423339f7d703b1"
         },
         "res/DeCheThanhRome/project.manifest": {
             "md5": "4f1f231d79f90404e96754037b1f6597"
@@ -2831,8 +2915,8 @@
         "res/ResourceMenuTab/Profile/animation-duaxe1.png": {
             "md5": "6036e6c72115ac48ebe45e9ec2292840"
         },
-        "src/Game/Slots/SlotsKhoBau/SlotKhoBauTheLeX2_en.jsc": {
-            "md5": "5328f970d61d838a72923e60f993c1e8"
+        "src/Game/Slots/NuChienThan/GUI/ThangNhoLayer_en.jsc": {
+            "md5": "e42eb6ddf0d371440179a6a1b7b43747"
         },
         "src/Game/BaiCao/GameGui/CardSprite_en.jsc": {
             "md5": "5c0e02182a2382e6068402a399b46e49"
@@ -2855,6 +2939,9 @@
         "src/Game/Networks/BaseSocket_en.jsc": {
             "md5": "85beec377122e7af8487572f0d25a153"
         },
+        "src/Game/Slots/NuChienThan/GUI/StartFreeLayer_en.jsc": {
+            "md5": "4f4c608e4c63948f52cbf45d595f68d8"
+        },
         "src/Game/MenuInfo/Sercurity/ChangeMobileLayer_en.jsc": {
             "md5": "58a8934a84133a1d11524766b0e6a46d"
         },
@@ -2865,7 +2952,7 @@
             "md5": "5ec51b2effb10fcac913c83ccc37c74e"
         },
         "src/Engine/Utility/ConnectNative_en.jsc": {
-            "md5": "81158a06c69e115d38595b77bb806973"
+            "md5": "ad9c056c5f16b3a06e3ee3357224c4ad"
         },
         "res/Font/Roboto-Medium.ttf": {
             "md5": "9745415b8a2a8b9a2480a12f7e2d3ad3"
@@ -2897,9 +2984,6 @@
         "src/Game/BaiCao/GameGui/BaiCaoItemEndGame_en.jsc": {
             "md5": "8e7da4558473f7e72005bf9d7046f826"
         },
-        "src/Game/Slots/SlotsKhoBau/SlotKhoBauLSGD_en.jsc": {
-            "md5": "19977326af1cf0d4b723292069a676dd"
-        },
         "res/ResourceMenuTab/PlistResourceMenuTab.plist": {
             "md5": "ddef6696b2455fe50af1004f9076a03b"
         },
@@ -2925,10 +3009,10 @@
             "md5": "c574258bc89f3641a7f5c0fbafbf457b"
         },
         "src/Game/MenuInfo/MenuTab/HuGame/ItemHuGame_en.jsc": {
-            "md5": "04cdb59fe713ca5fd81b65ca79a61223"
+            "md5": "29b9f8bd1fdbe708da1dfe18e6084090"
         },
         "src/Game/TienLen/GuiGame/GameScene_en.jsc": {
-            "md5": "0291127debd4523f989e12d6279ed309"
+            "md5": "aa94840a02909c19977df6027ab26849"
         },
         "res/CardGame/CommonResource/DiemBoBai/diem3Cay/shadown.png": {
             "md5": "12381832e424aab3e164be595b98ff61"
@@ -2939,8 +3023,8 @@
         "src/Game/BaCay/BaCayLogic/Player_en.jsc": {
             "md5": "f100b875943f3761a06a88fc06b0f879"
         },
-        "src/Game/Sam/GuiGame/CardSprite_en.jsc": {
-            "md5": "69083ab4cc9cdcf9c215572acf46c8d7"
+        "res/LoadingUI/GEM.json": {
+            "md5": "dbd4a1df379a64a7b575233fd1aa4f87"
         },
         "src/Game/GameMng/GameData_en.jsc": {
             "md5": "514136e29a17a70aef07d8f3ec884f18"
@@ -2955,7 +3039,7 @@
             "md5": "8a94a4fd74b3b7efdcc19db2656fcfd1"
         },
         "src/Game/Lobby/Content/MenuDefine_en.jsc": {
-            "md5": "af95b4a4418b188eb7cacc03bb5e62c2"
+            "md5": "b56b4c52713f2151207debdeaba5994e"
         },
         "src/Game/PokerTour/GameGui/CardSprite_en.jsc": {
             "md5": "138e84bc4290c84996c26f95e150f348"
@@ -2977,6 +3061,9 @@
         },
         "src/Game/XocDia/Network/OutPacket_en.jsc": {
             "md5": "73af05bdf409b038cd785529922b17fc"
+        },
+        "src/Game/Slots/NuChienThan/GUI/SettingLayer_en.jsc": {
+            "md5": "8e5e3205e31d2c1d0de76ab9a58bb27d"
         },
         "res/Minigame/BauCua/version.manifest": {
             "md5": "b9458f1a823a97d83fcc5e87251d468b"
@@ -3038,14 +3125,14 @@
         "res/Minigame/ResCaoThap/project.manifest": {
             "md5": "6aa40783c9c26a2a38de35d4992ef9d5"
         },
-        "res/KBTopNoHu.json": {
-            "md5": "65e8d6c36a68329092d6ee2f4137b8b3"
-        },
         "res/MenuSlots/dung_nor.png": {
             "md5": "9828e17beab587101147ee548abf5033"
         },
         "src/Game/TienLen/GuiGame/PlayerDisplay_en.jsc": {
-            "md5": "70d1c84a88a980bd0ed78544d127181a"
+            "md5": "2bb14481b7df8a8e40816a770c301ee4"
+        },
+        "src/Game/BaCay/GameGui/CardSprite_en.jsc": {
+            "md5": "5398328e72239240760d8643a2b5f56b"
         },
         "src/Game/GameUtility/GameAlert_en.jsc": {
             "md5": "59071f52d9e74febfb6c38187f11c3a5"
@@ -3062,12 +3149,15 @@
         "src/Game/BaCay/Constants_en.jsc": {
             "md5": "366025e3be8c3f398316c8c70a32c031"
         },
+        "src/Game/Slots/Components/TableLayer/LayoutListView_en.jsc": {
+            "md5": "bce0d7958bdf556573350dc0b36279ca"
+        },
         "res/ThanBien/version.manifest": {
             "md5": "030648ab5be9467505fb7b5c1ec3ea1b"
         }
     },
     "remoteVersionUrl": "http://androidmanvip.club/mobile2/version.manifest",
-    "version": "1.0.28",
+    "version": "1.0.29",
     "engineVersion": "3.16",
     "remoteManifestUrl": "http://androidmanvip.club/mobile2/project.manifest"
 }
